@@ -1,0 +1,58 @@
+﻿* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #222;
+}
+
+form {
+	box-shadow: 5px 6px 20px #808080;
+	border-radius: 5px;
+	background-color: #fff;
+	padding: 20px;
+	padding-top: 90px;
+	height: 300px;
+	width: 350px;
+	margin: 150px auto 0px auto;
+}
+
+.campo {
+	position: relative;
+	width: 250px;
+	height: 40px;
+	font-size: 13pt;
+	font-style: italic;
+	border: 1px solid #ddd;
+}
+
+.btn {
+	font-family: Verdana;
+	position: relative;
+	width: 100px;
+	height: 40px;
+	top: 30px;
+	left: 120px;
+	font-weight: bold;
+	border: 1px solid #ddd;
+	background-color: orange;
+}
+
+h3 {
+	border-radius: 3px;
+	width: 250px;
+	text-align: center;
+	position: relative;
+	left: 50px;
+	font-style: italic;
+	background-color: red;
+	color: white;
+}
+
+label {
+	position: relative;
+	left: 50px;
+	font-size: 16pt;
+	font-style: italic;
+}
